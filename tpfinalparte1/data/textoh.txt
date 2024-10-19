@@ -1,0 +1,16 @@
+COMENZAR (A)    CREDITOS (B)
+Al Agente 47 le llego una nueva mision, ¡elimina al presidente de rusia!,¿Quieres asesinarlo en publico?    Si (A)    No (B) .
+Lo matas en pleno acto publico.
+Lo matas en su oficina de manera mas privada y segura.
+Recives una llamada informandote de que hubo una testigo de tu asesinato.
+Das con el paradero de la supuesta testigo.¿La matas?    No(A)    Si(B).
+Al mirar detenidamente vez que era una trampa, por lo que decides proteger a la mujer y enfrentar a los mafiosos rusos.
+Matas a la testigo, pero resulta que era una trampa de mafiosos rusos que intentan matarte, por lo que te das a la fuga seguido por la mafia.
+Logras derrotarlos,¿Intentas buscar venganza contra el traidor que te llevo a esa trampa?    A(No)    B(Si) 
+Decides retirarte con las misiones que te dieron cumplidas, pero con el pequeño detalle de que todavia hay un traidor acechando.
+Te dirigues al centro de rusia en tren en busca de el traidor para limpiar todo rastro,pero en el tren te esperaron agentes rusos ¿te enfrentas a cuchillo (A) o pistola(B) ante ellos?.
+Tras un enfrentamiento a cuchillo ellos fueron demaciados, por lo que te deparara la muerte.
+Logras eliminarlos sin mucha dificultad.
+Al llegar a el centro de rusia logras encontrar al traidor que te tendio la trampa.
+Procedes a eliminarlo lo antes posible, eliminando ese cabo suelto.
+¡MISION CUMPLIDA!                      alumno y creador:           Jonas Corengia               Legajo:118999/7           Comision:5
